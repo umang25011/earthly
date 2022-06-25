@@ -1,4 +1,4 @@
-package com.example.C1O2
+package com.example.Earthly
 
 import io.flutter.embedding.android.FlutterActivity
 

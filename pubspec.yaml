@@ -1,4 +1,4 @@
-name: C1O2
+name: Earthly
 description: "A futuristic app which calculates your carbon footprint due to Travel, Food and Household activities. Gives you tips to reduce your carbon footprints."
 
 
@@ -45,7 +45,7 @@ dev_dependencies:
 flutter_icons:
   android: "launcher_icon"
   ios: true
-  image_path: "assets/images/C1O2_icon.png"
+  image_path: "assets/images/Earthly_icon.png"
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
